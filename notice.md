@@ -29,6 +29,21 @@ AI全身编舞、人物交互式建模、手物交互式建模、VLA与具身仿
 **值得说明的是，我们团队的硕士生基本能做到人手顶刊顶会。**
 同时，课题组对于希望“躺平”、“摆烂”、“混日子”的同学，可能并不适合。<br><br>
 
+**在这里，我将全流程指导同学的成果以及毕业生去向列出佐证（尽量每隔一段时间更新）。** <br>
+为了保护同学们的个人隐私，我隐藏部分信息，成果包括主要贡献协助我本人完成的工作。<br>
+博士：Chuanyang Ma, PR, IJCV(Major Revision).<br>
+第一届（已毕业）：Shiying Li, AAAI, 大厂算法；Yizhi Hu, ACM MM, 大厂算法；Zezhao Tian, IJCV, 大厂算法.<br>
+第二届（研三）：Chen Su, ACM TOG, 国家奖学金；Xurui Hu, IJCAI, 国家奖学金； Bingkun Yang, IJCV(Major Revision).<br>
+第三届（研二）：Yixuan Wang, IEEE TMM, 北京市“启研”计划；Jiajun Xie, ICLR(Under Review).<br>
+第四届（研一）：等同学们有进展后再做更新。<br><br>
+
+协助指导的团队同学包括（Xingqun Qi老师和Chenye Wang博士也付出很多）：
+博士：Yuan Ma, IEEE TMM(Under Review)；<br>
+研二：Guanlin Li, ICLR(Under Review)；Xinyi Li, CVPR(Under Review)；<br>
+研一：等同学们有进展后再做更新。<br><br>
+
+
+
 👨‍🚒【工程项目要求】 <br>
 现阶段，我个人的横向工程项目暂时没有多少，主要以纵向科研项目/纵向大课题的横向科研任务为主。<br>
 但由于考核要求和团队安排，每位同学后期还是会承担一些工程类横向项目。<br>
