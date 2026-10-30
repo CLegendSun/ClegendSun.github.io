@@ -30,7 +30,7 @@ AI全身编舞、人物交互式建模、手物交互式建模、VLA与具身仿
 同时，课题组对于希望“躺平”、“摆烂”、“混日子”的同学，可能并不适合。<br><br>
 
 **在这里，我将全流程指导同学的成果以及毕业生去向列出佐证（尽量每隔一段时间更新）。** <br>
-为了保护同学们的个人隐私，我隐藏部分信息，成果包括主要贡献协助我本人完成的工作。<br>
+为了保护同学们的个人隐私，我隐藏部分信息，成果包括作为主要贡献-协助我本人完成的工作。<br>
 博士：Chuanyang Ma, PR, IJCV(Major Revision).<br>
 第一届（已毕业）：Shiying Li, AAAI, 大厂算法；Yizhi Hu, ACM MM, 大厂算法；Zezhao Tian, IJCV, 大厂算法.<br>
 第二届（研三）：Chen Su, ACM TOG, 国家奖学金；Xurui Hu, IJCAI, 国家奖学金； Bingkun Yang, IJCV(Major Revision).<br>
